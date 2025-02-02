@@ -1,0 +1,23 @@
+
+table {
+    color: blue;
+    background-color: beige;
+    
+}
+td {
+    color: brown;
+}
+div{
+    color: orange;
+}
+select {
+    color: black;
+    background-color:red;
+}
+button{
+    color: aqua;
+    background-color: black;
+}
+text{
+    color: blueviolet;
+}
